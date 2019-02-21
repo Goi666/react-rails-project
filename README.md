@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# react-rails-project
+The lesson of React &amp; Rails
